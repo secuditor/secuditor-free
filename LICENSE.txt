@@ -1,0 +1,65 @@
+Secuditor Free — License Agreement
+==================================
+
+IMPORTANT: READ CAREFULLY BEFORE USING THIS SOFTWARE
+
+This License Agreement (“Agreement”) is a legal agreement between you (either an individual or a single entity, "User") and Menahem Levinski (doing business as "secuditor.com", the "Licensor") for the software product: Secuditor Free (“Software”). By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not install or use the Software.
+
+1. Grant of License
+- Licensor grants User a non-exclusive, non-transferable, royalty-free license to use the Software for personal, non-commercial purposes only.
+- This Software is provided as freeware for personal and organizational use. No fees are charged for this edition alone.
+
+2. Restrictions
+User may not:
+- Modify, adapt, redesign, reverse engineer, decompile, or disassemble the Software.
+- Rent, lease, sell, sublicense, distribute, or otherwise make the Software available to any third party.
+- Use the Software for any unlawful, unethical, or unauthorized purpose.
+
+3. Ownership
+- The Software is licensed, not sold. All rights, title, and interest in and to the Software remain with the Licensor. This includes all code written by the Licensor, including portions created or assisted using AI tools under the direction of the Licensor.
+- The Secuditor name, logo, and icon are the exclusive property of the Licensor and are protected by applicable copyright and trademark laws, whether or not formally registered.
+- This Agreement does not grant the User any rights to the source code, which constitutes confidential and proprietary information protected by applicable intellectual property laws.
+
+4. Disclaimer of Warranty
+- The Software is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+- The Licensor does not guarantee that the Software will detect all issues, nor does it make any operational changes to the system, the Software designed as a diagnostic tool.
+
+5. Lawful Usage
+The Software is provided strictly for lawful and ethical purposes. Users are responsible for ensuring compliance with all applicable laws, regulations, and organizational policies. Users should ensure they have the necessary expertise or guidance to use the Software safely.
+
+6. Limitation of Liability
+In no event shall Licensor be liable for any damages (including, but not limited to, loss of data, loss of profits, or business interruption) arising from the use or inability to use the Software, even if Licensor has been advised of the possibility of such damages.
+
+7. Termination
+This Agreement is effective until terminated. Licensor may terminate it at any time if User fails to comply with its terms. Upon termination, User must cease using the Software and destroy all copies.
+
+8. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the Country in which the Licensor resides.
+
+9. Entire Agreement
+This Agreement constitutes the entire agreement between User and Licensor regarding the Software and supersedes any prior agreements or understandings.
+
+10. Third-Party Software
+This Software includes third-party open-source components and icons that are licensed separately. 
+Your use of those components is subject to their respective licenses. Copies of these licenses are provided in the THIRD_PARTY_LICENSES.txt file included with the Software.
+
+The following third-party components are included:
+
+- Python (Python Software Foundation License)
+- pywin32 (MIT License)
+- packaging (BSD 2-Clause License)
+- WMI (Python WMI library)
+- Requests (Apache License 2.0)
+- psutil (BSD License)
+- dnspython (ISC License)
+- cryptography (Apache License 2.0 / BSD)
+- Pillow (HPND License)
+- Tcl/Tk via Tkinter (BSD-style License)
+- Freepik (UI Buttons) icons by @user915206 (Freepik Free License, attribution required)
+------------------------------------------------------------
+
+Note on Third-Party License Compliance:
+
+1. THIRD_PARTY_LICENSES.txt is included with the Software to satisfy open-source license and icon attribution requirements.
+2. Users should refer to THIRD_PARTY_LICENSES.txt for full license texts and attribution instructions.
+3. Icons from Freepik are used under their respective licenses and require attribution, as detailed in the included THIRD_PARTY_LICENSES.txt file.
