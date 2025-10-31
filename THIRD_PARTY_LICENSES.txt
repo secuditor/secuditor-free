@@ -1,0 +1,89 @@
+============================================================
+ THIRD-PARTY LICENSES FOR SECUDITOR FREE
+============================================================
+
+This software distribution includes open-source components and icons
+that are licensed under their respective terms.  
+All rights to those components remain with their original authors.
+
+------------------------------------------------------------
+Python
+------------------------------------------------------------
+Python Software Foundation License Version 2  
+Copyright © 2001-2025 Python Software Foundation.  
+Full license: https://docs.python.org/license.html
+
+------------------------------------------------------------
+pywin32 (pythoncom, win32api, win32net, etc.)
+------------------------------------------------------------
+MIT License  
+Copyright (c) 1996-2025 Mark Hammond  
+Full license: https://github.com/mhammond/pywin32/blob/main/LICENSE
+
+------------------------------------------------------------
+packaging
+------------------------------------------------------------
+BSD 2-Clause License  
+Copyright © 2013-2025 Python Packaging Authority  
+Full license: https://github.com/pypa/packaging/blob/main/LICENSE
+
+------------------------------------------------------------
+WMI (Python WMI library)
+------------------------------------------------------------
+MIT License  
+Copyright (c) 2006-2025 Tim Golden  
+Full license: https://github.com/pywin32/wmi/blob/master/LICENSE
+
+------------------------------------------------------------
+Requests
+------------------------------------------------------------
+Apache License 2.0  
+Copyright © Kenneth Reitz and contributors  
+Full license: http://www.apache.org/licenses/LICENSE-2.0
+
+------------------------------------------------------------
+psutil
+------------------------------------------------------------
+BSD 3-Clause License  
+Copyright (c) 2009, Jay Loden, Dave Daeschler, Giampaolo Rodola'  
+Full license: https://github.com/giampaolo/psutil/blob/master/LICENSE
+
+------------------------------------------------------------
+dnspython
+------------------------------------------------------------
+ISC License  
+Copyright (c) 2001-2025 by Joe Abley, et al.  
+Full license: https://www.dnspython.org/license/
+
+------------------------------------------------------------
+cryptography
+------------------------------------------------------------
+Apache License 2.0 / BSD License  
+Copyright (c) The cryptography developers  
+Full license: https://github.com/pyca/cryptography/blob/main/LICENSE
+
+------------------------------------------------------------
+Pillow (PIL)
+------------------------------------------------------------
+Historical Permission Notice and Disclaimer (HPND)  
+Copyright © 1995-2011 Fredrik Lundh  
+Copyright © 2010-2025 Alex Clark and contributors  
+Full license: https://github.com/python-pillow/Pillow/blob/main/LICENSE
+
+------------------------------------------------------------
+Tcl/Tk (via Tkinter)
+------------------------------------------------------------
+BSD-style License  
+Full license: https://www.tcl.tk/software/tcltk/license.html
+
+------------------------------------------------------------
+Freepik Icons
+------------------------------------------------------------
+Icons by @user915206 via Freepik — used under Freepik Free License (with attribution).  
+Source URL: https://www.freepik.com/author/user915206/icons/generic-blue_2225
+
+------------------------------------------------------------
+
+Note:
+Attribution must be included in any distribution of the Software, for example, in a THIRD_PARTY_LICENSES.txt file or within the EULA dialog in the application.
+
