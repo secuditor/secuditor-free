@@ -1,4 +1,4 @@
-# Secuditor Free (Edition)
+# Secuditor Free
 
 Freeware diagnostic / forensic security tool for Windows endpoints and networks, suitable for both personal and organizational use.
 
@@ -25,20 +25,6 @@ Compatible with:
 
 ---
 
-## ⚠️ Safety Notice
-
-**Secuditor Free** is digitally signed and safe for use.  
-However, since it is based on Python code, some antivirus programs may incorrectly flag or block its operation.  
-If you trust the application, please create an **exception** or **whitelist** it in your antivirus software.
-
-Microsoft Defender SmartScreen may also display a warning because **Secuditor Free** is a new, verified application.
-When the SmartScreen warning appears:
-1. Click **“More info”**  
-2. Verify that the **Publisher** is `Menahem Levinski`  
-3. Click **“Run anyway”**
-
----
-
 ## 📥 Downloads & Releases
 
 Browse the repository for documentation and releases:  
@@ -50,6 +36,20 @@ Browse the repository for documentation and releases:
 
 - **Official website:** [https://secuditor.com](https://secuditor.com)
 - **Contact:** info@secuditor.com
+
+---
+
+## ⚠️ Safety Notice
+
+**Secuditor Free** is digitally signed and safe for use.  
+However, since it is based on Python code, some antivirus programs may incorrectly flag or block its operation.  
+If you trust the application, please create an **exception** or **whitelist** it in your antivirus software.
+
+Microsoft Defender SmartScreen may also display a warning because **Secuditor Free** is a new, verified application.
+When the SmartScreen warning appears:
+1. Click **“More info”**  
+2. Verify that the **Publisher** is `Menahem Levinski`  
+3. Click **“Run anyway”**
 
 ---
 
