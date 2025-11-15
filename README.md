@@ -44,8 +44,10 @@ Browse the repository for documentation and releases:
 
 ## ⚠️ Safety Notice
 
-**Secuditor Free** is digitally signed and safe for use.  
-However, since it is based on Python code, some antivirus programs may incorrectly flag or block its operation.  
+**Secuditor Free** is digitally signed and safe for use.
+Please ensure that you download the software only from the official source.
+
+Since it is based on Python code, some antivirus programs may incorrectly flag or block its operation.
 If you trust this application, you may need to create an **exception** or add it to a **whitelist** in your antivirus software.
 
 Microsoft Defender SmartScreen may also display a warning because **Secuditor Free** is a new, verified application.
