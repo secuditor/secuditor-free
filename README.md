@@ -58,7 +58,7 @@ When the SmartScreen warning appears:
 
 ---
 
-## 📄 Privacy Policy & License
+## 📄 Privacy Policy
 
 **Secuditor Free** is a diagnostic security tool that runs locally on your device.  
 It does **not collect, store, or transmit any personal data** or system information without the user’s explicit action or consent.
