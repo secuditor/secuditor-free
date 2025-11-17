@@ -1,3 +1,5 @@
+Copyright (c) 2025 Menny Levinski
+
 ==========================
 End-User License Agreement
 ==========================
@@ -64,4 +66,3 @@ Note on Third-Party License Compliance:
 1. THIRD_PARTY_LICENSES.txt is included with the Software to satisfy open-source license and icon attribution requirements.
 2. Users should refer to THIRD_PARTY_LICENSES.txt for full license texts and attribution instructions.
 3. Icons from Freepik are used under their respective licenses and require attribution, as detailed in the included THIRD_PARTY_LICENSES.txt file.
-
