@@ -1,4 +1,4 @@
-![Logo](secuditor-logo.jpg)
+![Logo](media/secuditor-logo.jpg)
 
 # Secuditor Free
 
@@ -20,7 +20,9 @@ The software is suitable for both personal and organizational use.
 
 ---
 
-## 🖼️ App Screenshots
+## 🎬 Application Demo
+
+![Demo](media/animated-gif-secuditor-2s.gif)
 
 ---
 
