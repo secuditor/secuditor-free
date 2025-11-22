@@ -5,7 +5,7 @@
 Diagnostic and forensic security tool for Windows endpoints and networks, features a friendly GUI.
 The software is suitable for both personal and organizational use.
 
-#### Latest release available: [1.9.9](https://github.com/secuditor/secuditor-free/releases/download/1.9.9/SecuditorFree_1.9.9.zip)
+### Latest release available: [1.9.9](https://github.com/secuditor/secuditor-free/releases/download/1.9.9/SecuditorFree_1.9.9.zip)
 
 ---
 
@@ -35,10 +35,14 @@ Compatible with:
 
 ---
 
-## 📥 Files & Releases
+## ⚙️ Installation
 
-Browse the repository for documentation and releases:  
-[Secuditor Free on GitHab](https://github.com/secuditor/secuditor-free/releases)
+### 1️⃣ Download the ZIP file
+- **SecuditorFree_1.9.9.zip**
+
+### 2️⃣ Extract & Run
+- Unzip the file
+- Double-click **SecuditorFree.exe**
 
 ---
 
