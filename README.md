@@ -35,14 +35,14 @@ Compatible with:
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Getting Started
 
 ### 1️⃣ Download the ZIP file
 - **SecuditorFree_1.9.9.zip**
 
 ### 2️⃣ Extract & Run
 - Unzip the file
-- Double-click **SecuditorFree.exe**
+- Double-click **SecuditorFree.exe** (recommended: Run as administrator)
 
 ---
 
