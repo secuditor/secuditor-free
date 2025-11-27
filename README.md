@@ -26,7 +26,7 @@ The software is suitable for both personal and organizational use.
 
 ---
 
-## 💡 Standard Version
+## 💿 Standard Edition
 
 Compatible with:
 - Windows 10  
