@@ -35,7 +35,7 @@ Compatible with:
 
 ---
 
-## ⚙️ Getting Started
+## 🚀 Getting Started
 
 ### 1️⃣ Download the ZIP file
 - **SecuditorFree_1.9.9.zip**
