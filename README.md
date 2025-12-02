@@ -29,8 +29,7 @@ The software is suitable for both personal and organizational use.
 ## 💿 Standard Edition
 
 Compatible with:
-- Windows 10  
-- Windows 11  
+- Windows 10 / 11
 - Windows Server 2016 / 2019 / 2022
 
 ---
