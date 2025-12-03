@@ -22,7 +22,7 @@ The software is suitable for both personal and organizational use.
 
 ## 🎬 Application Demo
 
-![Demo](media/animated-gif-secuditor-2.5s.gif)
+![Demo](media/animated-gif-secuditor-win-2.0.0-2.5s.gif)
 
 ---
 
