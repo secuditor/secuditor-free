@@ -11,11 +11,11 @@ The software is suitable for both personal and organizational use.
 
 ## 🛡️ Key Features
 
-- Comprehensive Endpoint Security Audit
-- User Friendly Graphical Interface Design
-- Extended and Easy to Export Reports (TXT)
-- Advanced SSL/TLS Interception Analysis
-- Enhanced Threat Detection Diagnostics
+- One-click Comprehensive Endpoint Security Audit
+- User Friendly Graphical Interface Design (GUI)
+- Extended and Short Easy to Export Reports (TXT)
+- Advanced SSL/TLS Interception Detailed Analysis
+- Enhanced configuration Detection Diagnostics
 - Many New Analytic Features and Insights
 
 ---
