@@ -22,7 +22,7 @@ The software is helping identify vulnerabilities and improve security awareness,
 
 ## 🎬 Application Demo
 
-![Demo](media/animated-gif-secuditor-win-2.0.0.gif)
+![Demo](media/animated-gif-secuditor-2.0.0.gif)
 
 ---
 
