@@ -1,4 +1,4 @@
-![Logo](media/secuditor-logo.png)
+![Logo](media/secuditor.com-logo-transparent.png)
 
 # Secuditor Free
 
