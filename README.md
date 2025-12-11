@@ -1,4 +1,8 @@
-![Logo](media/secuditor.com-logo-transparent.png)
+<div align="center" style="line-height: 0;">
+  <a href="https://secuditor.com">
+    <img src="media/secuditor.com-logo-transparent.png" alt="Secuditor Logo" width="600" height="150">
+  </a>
+</div>
 
 # Secuditor Free
 
