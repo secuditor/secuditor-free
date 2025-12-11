@@ -1,5 +1,5 @@
 <div align="center" style="line-height: 0;">
-  <a href="https://secuditor.com">
+  <a href="https://secuditor.com/#whatwedo">
     <img src="media/secuditor.com-logo-transparent.png" alt="Secuditor Logo" width="600" height="150">
   </a>
 </div>
