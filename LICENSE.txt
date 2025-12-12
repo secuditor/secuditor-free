@@ -1,9 +1,5 @@
 Copyright (c) 2025 Menny Levinski
 
-==========================
-End-User License Agreement
-==========================
-
 IMPORTANT: READ CAREFULLY BEFORE USING THIS SOFTWARE
 
 This License Agreement (“Agreement”) is a legal agreement between you (either an individual or a single entity, "User") and Menahem Levinski (doing business as "secuditor.com", the "Licensor") for the software product: Secuditor Free (“Software”). By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not install or use the Software.
@@ -61,5 +57,4 @@ Third-party components included:
 
 Note on Third-Party License Compliance:
 1. A link to THIRD_PARTY_LICENSES.txt is included with the Software's README file to satisfy open-source license and icon attribution requirements.
-2. Users should refer to THIRD_PARTY_LICENSES.txt for full license texts and attribution instructions.
-3. Icons from Freepik are used under their respective licenses and require attribution, as detailed in the included THIRD_PARTY_LICENSES.txt file.
+2. Icons from Freepik are used under their respective licenses and require attribution, as detailed in the included THIRD_PARTY_LICENSES.txt file.
