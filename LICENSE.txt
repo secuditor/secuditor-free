@@ -46,8 +46,7 @@ This Agreement constitutes the entire agreement between User and Licensor regard
 This Software includes third-party open-source components and icons that are licensed separately. 
 Your use of those components is subject to their respective licenses. Copies of these licenses are provided in the THIRD_PARTY_LICENSES.txt file included with the Software.
 
-The following third-party components are included:
-
+Third-party components included:
 - Python (Python Software Foundation License)
 - pywin32 (MIT License)
 - packaging (BSD 2-Clause License)
@@ -59,10 +58,8 @@ The following third-party components are included:
 - Pillow (HPND License)
 - Tcl/Tk via Tkinter (BSD-style License)
 - Freepik (UI Buttons) icons by @user915206 (Freepik Free License, attribution required)
-------------------------------------------------------------
 
 Note on Third-Party License Compliance:
-
 1. THIRD_PARTY_LICENSES.txt is included with the Software to satisfy open-source license and icon attribution requirements.
 2. Users should refer to THIRD_PARTY_LICENSES.txt for full license texts and attribution instructions.
 3. Icons from Freepik are used under their respective licenses and require attribution, as detailed in the included THIRD_PARTY_LICENSES.txt file.
