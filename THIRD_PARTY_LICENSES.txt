@@ -86,5 +86,3 @@ Source URL: https://www.freepik.com/author/user915206/icons/generic-blue_2225
 
 Note:
 Attribution must be included in any distribution of the Software, for example, in a THIRD_PARTY_LICENSES.txt file or within the EULA dialog in the application.
-
-
