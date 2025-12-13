@@ -24,17 +24,17 @@ The software helps to identify vulnerabilities and improve security awareness. I
 
 ---
 
-## 🎬 Application Demo
-
-![Demo](media/animated-gif-secuditor-2.0.1.gif)
-
----
-
 ## 💿 Standard Edition
 
 Compatible with:
 - Windows 10 / 11
 - Windows Server 2016 / 2019 / 2022
+
+---
+
+## 🎬 Application Demo
+
+![Demo](media/animated-gif-secuditor-2.0.1.gif)
 
 ---
 
