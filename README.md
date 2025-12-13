@@ -1,6 +1,6 @@
 <div align="center" style="line-height: 0;">
   <a href="https://secuditor.com/#whatwedo">
-    <img src="media/secuditor.com-logo-transparent.png" alt="Secuditor Logo" width="600" height="150">
+    <img src="media/secuditor.com-logo-transparent.png" alt="Secuditor Logo" width="500" height="150">
   </a>
 </div>
 
@@ -26,7 +26,7 @@ The software helps to identify vulnerabilities and improve security awareness. I
 
 ## 🎬 Application Demo
 
-![Demo](media/animated-gif-secuditor-2.0.0.gif)
+![Demo](media/animated-gif-secuditor-2.0.1.gif)
 
 ---
 
