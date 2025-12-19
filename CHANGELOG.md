@@ -3,7 +3,7 @@ All notable changes to **Secuditor Free** are documented in this file.
 
 ---
 
-## [2.0.1] – Latest
+## [2.0.1] – 13.12.2025 – Latest
 ### Added
 - SNMP server feature check
 - Rsync server feature check
@@ -17,7 +17,7 @@ All notable changes to **Secuditor Free** are documented in this file.
 
 ---
 
-## [2.0.0]
+## [2.0.0] – 03.12.2025
 ### Added
 - NTLM policy evaluation
 - PATH environment variable integrity check
@@ -29,7 +29,7 @@ All notable changes to **Secuditor Free** are documented in this file.
 
 ---
 
-## [1.9.9]
+## [1.9.9] – 21.11.2025
 ### Fixed
 - Network Gateway report issue
 - SSL/TLS interception bug
@@ -39,7 +39,7 @@ All notable changes to **Secuditor Free** are documented in this file.
 
 ---
 
-## [1.9.8]
+## [1.9.8] – 12.11.2025
 ### Added
 - Descriptive text to buttons
 
@@ -51,5 +51,5 @@ All notable changes to **Secuditor Free** are documented in this file.
 
 ---
 
-## [1.9.7]
+## [1.9.7] – 04.11.2025
 ### Initial Public Release
