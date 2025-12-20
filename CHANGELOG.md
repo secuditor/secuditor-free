@@ -2,8 +2,17 @@
 All notable changes to **Secuditor Free** are documented in this file.
 
 ---
+## [2.0.2] – 20.12.2025 – Latest
+### Improved
+- Redesigned main screen visuals
+- Optimized threat intelligence processing
 
-## [2.0.1] – 13.12.2025 – Latest
+### Fixed
+- Event logs display issue resolved
+
+---
+
+## [2.0.1] – 13.12.2025
 ### Added
 - SNMP server feature check
 - Rsync server feature check
