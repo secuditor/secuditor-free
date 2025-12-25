@@ -45,7 +45,7 @@ Compatible with:
 ### 2️⃣ Extract & Run
 - Unzip the file
 - Double-click **SecuditorFree.exe**
-- For all features to work choose to "Run as administrator"
+- For all features to work it is recommended to "Run as administrator"
 
 ---
 
