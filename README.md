@@ -6,8 +6,8 @@
 
 # Secuditor Free
 
-An effective diagnostic and forensic security tool for Windows endpoints, servers and networks via friendly GUI.<br>
-The software helps to identify vulnerabilities and improve security awareness. It suites for both personal and organizational use.
+An effective free diagnostic security tool for Windows operating systems via friendly GUI.<br>
+Secuditor helps to identify vulnerabilities, improve security awareness and and simplifies forensic analysis. It suites for both personal and organizational use.
 
 ### Download the latest release: [2.0.2](https://github.com/secuditor/secuditor-free/releases/download/2.0.2/SecuditorFree_2.0.2.zip)
 
