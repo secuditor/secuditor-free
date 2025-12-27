@@ -3,7 +3,15 @@ All notable changes to **Secuditor Free** are documented in this file.
 
 ---
 
-## [2.0.2] – 20.12.2025 – Latest
+## [2.0.3] – 27.12.2025 – Latest
+### Added
+- NetBIOS security check
+- Certificate Authority (CA) check
+- DFS-R server check
+
+---
+
+## [2.0.2] – 20.12.2025
 ### Improved
 - Redesigned main screen visuals
 - Optimized threat intelligence processing
