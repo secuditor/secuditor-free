@@ -6,7 +6,7 @@ All notable changes to **Secuditor Free** are documented in this file.
 ## [2.0.3] – 27.12.2025 – Latest
 ### Added
 - NetBIOS protocol check
-- Certificate Authority (CA) feature check
+- Certificate Authority (CA) server feature check
 - DFS-R server feature check
 
 ---
