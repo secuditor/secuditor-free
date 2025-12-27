@@ -1,4 +1,4 @@
-Copyright (c) 2025 Menahem Levinski
+Copyright (c) 2025 Menny Levinski
 
 IMPORTANT: READ CAREFULLY BEFORE USING THIS SOFTWARE
 
@@ -58,4 +58,5 @@ Third-party components included:
 Note on Third-Party License Compliance:
 1. A link to THIRD_PARTY_LICENSES.txt is included with the Software's README file to satisfy open-source license and icon attribution requirements.
 2. Icons from Freepik are used under their respective licenses and require attribution, as detailed in the included THIRD_PARTY_LICENSES.txt file.
+
 
