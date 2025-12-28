@@ -6,7 +6,7 @@
 
 # Secuditor Free
 
-An effective free diagnostic security tool for Windows endpoints and networks with a friendly GUI.<br>
+A Python based diagnostic security tool for Windows endpoints and networks with a friendly GUI.<br>
 Secuditor helps identify vulnerabilities, improve security awareness and simplify forensic analysis. It suits both personal and organizational use.
 
 ---
