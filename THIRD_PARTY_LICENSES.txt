@@ -8,6 +8,13 @@ licenses. All rights to these components remain with their
 original authors.
 
 ------------------------------------------------------------
+Python
+------------------------------------------------------------
+Python Software Foundation License Version 2  
+Copyright © 2001-2025 Python Software Foundation.  
+Source: https://docs.python.org/license.html
+
+------------------------------------------------------------
 pywin32 (pythoncom, win32api, win32net, etc.)
 ------------------------------------------------------------
 MIT License
