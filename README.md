@@ -1,6 +1,6 @@
 <div align="center" style="line-height: 0;">
   <a href="https://github.com/secuditor">
-    <img src="media/Secuditor-logo-transparent2.png" alt="Secuditor Logo" width="500" height="150">
+    <img src="media/Secuditor-logo-transparent.png" alt="Secuditor Logo" width="500" height="150">
   </a>
 </div>
 
