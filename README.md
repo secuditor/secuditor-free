@@ -1,5 +1,5 @@
 <div align="center" style="line-height: 0;">
-  <a href="https://github.com/secuditor">
+  <a href="https://github.com/secuditor/secuditor-free">
     <img src="media/Secuditor-logo-transparent.png" alt="Secuditor Logo" width="500" height="150">
   </a>
 </div>
