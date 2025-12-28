@@ -1,85 +1,81 @@
 ============================================================
-        THIRD-PARTY LICENSES FOR **SECUDITOR FREE**
+        THIRD-PARTY LICENSES FOR SECUDITOR FREE
 ============================================================
 
-This software distribution includes open-source components and icons
-that are licensed under their respective terms.  
-All rights to those components remain with their original authors.
-
-------------------------------------------------------------
-Python
-------------------------------------------------------------
-Python Software Foundation License Version 2  
-Copyright © 2001-2025 Python Software Foundation.  
-License URL: https://docs.python.org/license.html
+This software distribution includes third-party open-source
+components and graphical assets licensed under their respective
+licenses. All rights to these components remain with their
+original authors.
 
 ------------------------------------------------------------
 pywin32 (pythoncom, win32api, win32net, etc.)
 ------------------------------------------------------------
-MIT License  
-Copyright (c) 1996-2025 Mark Hammond  
-Source URL: https://github.com/mhammond/pywin32/
+MIT License
+Copyright (c) 1996-2025 Mark Hammond
+Source: https://github.com/mhammond/pywin32/
 
 ------------------------------------------------------------
 packaging
 ------------------------------------------------------------
-BSD 2-Clause License  
-Copyright © 2013-2025 Python Packaging Authority  
-Source URL: https://github.com/pypa/packaging/
+BSD 2-Clause License
+Copyright (c) 2013-2025 Python Packaging Authority
+Source: https://github.com/pypa/packaging/
 
 ------------------------------------------------------------
 WMI (Python WMI library)
 ------------------------------------------------------------
-MIT License  
-Copyright (c) 2006-2025 Tim Golden  
-Source URL: https://pypi.org/project/WMI/
+MIT License
+Copyright (c) 2006-2025 Tim Golden
+Source: https://pypi.org/project/WMI/
 
 ------------------------------------------------------------
 Requests
 ------------------------------------------------------------
-Apache License 2.0  
-Copyright © Kenneth Reitz and contributors  
-Source URL: https://github.com/psf/requests/
+Apache License 2.0
+Copyright (c) Kenneth Reitz and contributors
+Source: https://github.com/psf/requests/
 
 ------------------------------------------------------------
 psutil
 ------------------------------------------------------------
-BSD 3-Clause License  
-Copyright (c) 2009, Jay Loden, Dave Daeschler, Giampaolo Rodola
-Source URL: https://github.com/giampaolo/psutil/
+BSD 3-Clause License
+Copyright (c) 2009 Jay Loden,
+              Dave Daeschler,
+              Giampaolo Rodola
+Source: https://github.com/giampaolo/psutil/
 
 ------------------------------------------------------------
 dnspython
 ------------------------------------------------------------
-ISC License  
-Copyright (c) 2001-2025 by Joe Abley, et al.  
-Source URL: https://github.com/rthalley/dnspython/
+ISC License
+Copyright (c) 2001-2025 Joe Abley et al.
+Source: https://github.com/rthalley/dnspython/
 
 ------------------------------------------------------------
 cryptography
 ------------------------------------------------------------
-Apache License 2.0 / BSD License  
-Copyright (c) The cryptography developers  
-Source URL: https://github.com/pyca/cryptography/
+Apache License 2.0 (with some components under BSD License)
+Copyright (c) The cryptography developers
+Source: https://github.com/pyca/cryptography/
 
 ------------------------------------------------------------
 Pillow (PIL)
 ------------------------------------------------------------
-Historical Permission Notice and Disclaimer (HPND)  
-Copyright © 1995-2011 Fredrik Lundh  
-Copyright © 2010-2025 Alex Clark and contributors  
-Source URL: https://github.com/python-pillow/Pillow/
+Historical Permission Notice and Disclaimer (HPND)
+Copyright (c) 1995-2011 Fredrik Lundh
+Copyright (c) 2010-2025 Alex Clark and contributors
+Source: https://github.com/python-pillow/Pillow/
 
 ------------------------------------------------------------
 Tcl/Tk (via Tkinter)
 ------------------------------------------------------------
-BSD-style License  
-License URL: https://www.tcl.tk/software/tcltk/license.html
+BSD-style License
+Source: https://www.tcl.tk/software/tcltk/license.html
 
 ------------------------------------------------------------
 Freepik Icons
 ------------------------------------------------------------
-Icons by @user915206 via Freepik — used under Freepik Free License (with attribution).  
-Source URL: https://www.freepik.com/author/user915206/icons/generic-blue_2225
-
+Icons designed by user915206 on Freepik.
+Source: https://www.freepik.com/author/user915206/icons/generic-blue_2225
+License: Freepik Free License (attribution required)
 ------------------------------------------------------------
