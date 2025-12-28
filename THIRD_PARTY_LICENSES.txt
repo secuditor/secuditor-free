@@ -18,7 +18,7 @@ pywin32 (pythoncom, win32api, win32net, etc.)
 ------------------------------------------------------------
 MIT License  
 Copyright (c) 1996-2025 Mark Hammond  
-Full license: https://github.com/mhammond/pywin32/blob/main/LICENSE
+GitHub repository: https://github.com/mhammond/pywin32
 
 ------------------------------------------------------------
 packaging
@@ -32,14 +32,14 @@ WMI (Python WMI library)
 ------------------------------------------------------------
 MIT License  
 Copyright (c) 2006-2025 Tim Golden  
-Full license: https://github.com/pywin32/wmi/blob/master/LICENSE
+Website: https://pypi.org/project/WMI/
 
 ------------------------------------------------------------
 Requests
 ------------------------------------------------------------
 Apache License 2.0  
 Copyright © Kenneth Reitz and contributors  
-Full license: http://www.apache.org/licenses/LICENSE-2.0
+Full license: https://github.com/psf/requests?tab=Apache-2.0-1-ov-file#readme
 
 ------------------------------------------------------------
 psutil
@@ -53,7 +53,7 @@ dnspython
 ------------------------------------------------------------
 ISC License  
 Copyright (c) 2001-2025 by Joe Abley, et al.  
-Full license: https://www.dnspython.org/license/
+Full license: https://github.com/rthalley/dnspython?tab=License-1-ov-file#readme
 
 ------------------------------------------------------------
 cryptography
