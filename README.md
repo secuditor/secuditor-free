@@ -32,7 +32,7 @@ Compatible with:
 
 ## 🎬 Application Demo
 
-![Demo](media/animated-gif-secuditor-2.0.3v2.gif)
+![Demo](media/animated-gif-secuditor-2.0.3.gif)
 
 ---
 
