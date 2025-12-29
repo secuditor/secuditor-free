@@ -1,6 +1,6 @@
 <div align="center" style="line-height: 0;">
   <a href="https://github.com/secuditor/secuditor-free">
-    <img src="media/secuditor_icon_github_300.png" alt="Secuditor Logo" width="200" height="200">
+    <img src="media/secuditor_icon_github_200.png" alt="Secuditor Logo" width="200" height="200">
   </a>
 </div>
 
