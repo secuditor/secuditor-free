@@ -3,7 +3,15 @@ All notable changes to **Secuditor Free** are documented in this file.
 
 ---
 
-## [2.0.3] – 27.12.2025 – Latest
+## [2.0.4] – 30.12.2025 – Latest
+### Added
+- MS-SQL server feature check
+- Updated UI button and description
+- Minor EULA (Section 1) wording changes
+
+---
+
+## [2.0.3] – 27.12.2025
 ### Added
 - NetBIOS protocol check
 - Certificate Authority (CA) server feature check
