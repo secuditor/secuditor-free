@@ -39,7 +39,7 @@ Compatible with:
 ## 🚀 Getting Started
 
 ### 1️⃣ Download the ZIP file
-- #### [SecuditorFree_2.0.3.zip](https://github.com/secuditor/secuditor-free/releases/download/2.0.3/SecuditorFree_2.0.3.zip)
+- #### [SecuditorFree_2.0.4.zip](https://github.com/secuditor/secuditor-free/releases/download/2.0.4/SecuditorFree_2.0.4.zip)
 
 
 ### 2️⃣ Extract & Run
