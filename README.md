@@ -6,15 +6,23 @@
 
 <a name="top"></a>
 
+<div align="center">
+[Introduction](#introduction) &nbsp;&nbsp; ❖ &nbsp;&nbsp; 
+[Application Demo](#application-demo) &nbsp;&nbsp; ❖ &nbsp;&nbsp; 
+[Getting Started](#getting-started) &nbsp;&nbsp; ❖ &nbsp;&nbsp; 
+[Safety Notice](#safety-notice) &nbsp;&nbsp; ❖ &nbsp;&nbsp; 
+[Privacy Policy](#privacy-policy) &nbsp;&nbsp; ❖ &nbsp;&nbsp; 
+[More Information](#more-information)
+</div>
+
+---
+
+<a name="introduction"></a>
+
 # Secuditor Free
 
 Secuditor is a Python based diagnostic security tool for Windows endpoints and networks with a friendly GUI.<br>
 It helps identify vulnerabilities, improve device's OpSec, and simplify forensic analysis. Suitable for both personal and organizational use.
-
----
-<br>
-
-[Application Demo](#application-demo) &nbsp;&nbsp; ❖ &nbsp;&nbsp; [Getting Started](#getting-started) &nbsp;&nbsp; ❖ &nbsp;&nbsp; [Safety Notice](#safety-notice) &nbsp;&nbsp; ❖ &nbsp;&nbsp; [Privacy Policy](#privacy-policy) &nbsp;&nbsp; ❖ &nbsp;&nbsp; [More Information](#more-information)
 
 ---
 <br>
