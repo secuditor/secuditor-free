@@ -13,12 +13,12 @@ It helps identify vulnerabilities, improve device's OpSec, and simplify forensic
 
 ## 🛡️ Key Features
 
-- Quick Comprehensive Endpoint Security Audit
-- User Friendly Graphical Interface Design (GUI)
-- Extended or Short Easy to Export Reports (TXT)
-- Advanced SSL/TLS Interception Detailed Analysis
-- Enhanced Configuration Detection Diagnostics
-- New Analytical Features and Improved Insights
+- Quick, comprehensive endpoint security audit report
+- Device Operational Security (OpSec) assessment tools
+- Advanced SSL/TLS interception with detailed analysis
+- Enhanced configuration detection and diagnostics log
+- Extended or short, easy to export reports (TXT format)
+- New analytical capabilities with improved security insights
 
 ---
 
@@ -32,7 +32,7 @@ Compatible with:
 
 ## 🎬 Application Demo
 
-![Demo](media/animated-gif-secuditor-2.0.3.gif)
+![Demo](media/animated-gif-secuditor-2.0.5.gif)
 
 ---
 
