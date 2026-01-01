@@ -7,11 +7,11 @@
 </div>
 
 <div align="center">
-<a href="#introduction">Introduction</a> &nbsp; ❖ &nbsp;
-<a href="#application-demo">Application Demo</a> &nbsp; ❖ &nbsp;
-<a href="#getting-started">Getting Started</a> &nbsp; ❖ &nbsp;
-<a href="#safety-notice">Safety Notice</a> &nbsp; ❖ &nbsp;
-<a href="#privacy-policy">Privacy Policy</a> &nbsp; ❖ &nbsp;
+<a href="#introduction">Introduction</a> &nbsp; ┃ &nbsp;
+<a href="#application-demo">Application Demo</a> &nbsp; ┃ &nbsp;
+<a href="#getting-started">Getting Started</a> &nbsp; ┃ &nbsp;
+<a href="#safety-notice">Safety Notice</a> &nbsp; ┃ &nbsp;
+<a href="#privacy-policy">Privacy Policy</a> &nbsp; ┃ &nbsp;
 <a href="#more-info">More Info</a>
 </div>
 
