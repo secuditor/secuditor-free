@@ -41,15 +41,14 @@ Compatible with:
 ### 1️⃣ Download the ZIP file
 - #### [SecuditorFree_2.0.5.zip](https://github.com/secuditor/secuditor-free/releases/download/2.0.5/SecuditorFree_2.0.5.zip)
 
-
 ### 2️⃣ Extract & Run
 - Unzip the file
 - Double-click **SecuditorFree.exe**
 - For all features to work it is recommended to "Run as administrator"
 
-### 3️⃣ Navagation
-- Standart mouse Left / Right clicks 
-- Keyboards arrows for the left table
+### 3️⃣ Navigation
+- Standard mouse left and right clicks
+- Keyboards arrows for the categories table
 
 ---
 
