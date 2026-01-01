@@ -1,10 +1,10 @@
+<a name="top"></a>
+
 <div align="center" style="line-height: 0;">
   <a href="https://github.com/secuditor/secuditor-free">
     <img src="media/Secuditor-logo-transparent.png" alt="Secuditor Logo" width="400" height="150">
   </a>
 </div>
-
-<a name="top"></a>
 
 <div align="center">
 <a href="#introduction">Introduction</a> &nbsp; ❖ &nbsp;
