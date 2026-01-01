@@ -47,6 +47,10 @@ Compatible with:
 - Double-click **SecuditorFree.exe**
 - For all features to work it is recommended to "Run as administrator"
 
+### 3️⃣ Navagation
+- Standart mouse Left / Right clicks 
+- Keyboards arrows for the left table
+
 ---
 
 ## 🟢 Safety Notice
