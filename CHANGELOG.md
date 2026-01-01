@@ -3,7 +3,21 @@ All notable changes to **Secuditor Free** are documented in this file.
 
 ---
 
-## [2.0.4] – 30.12.2025 – Latest
+## [2.0.5] – 01.01.2026 – Latest
+### Added
+- DHCP server feature check
+- DNS server feature check
+- WINS server feature check
+- MSMQ server feature check
+
+### Improved
+- Password policy history check enhanced
+- Replaced toolbar icon with a new design
+- Updated main window features description
+
+---
+
+## [2.0.4] – 30.12.2025
 ### Added
 - MS-SQL server feature check
 - Updated UI button and description
