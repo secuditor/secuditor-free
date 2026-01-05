@@ -57,9 +57,10 @@ Compatible with:
 ### Secuditor running a security audit on a Windows device
 ![Demo](media/animated-gif-secuditor-2.0.5.gif)
 
----
+<br>
 
-### Secuditor displaying the VPN's public IP and geolocation
+### Secuditor identifying VPN public IP and geolocation
+
 ![Demo](media/animated-gif-secuditor-2.0.5-vpn.gif)
 
 ---
