@@ -59,7 +59,7 @@ Compatible with:
 
 <br>
 
-### Checking OpSec, public IP exposure, and geolocation visibility
+### Checking device OpSec, public IP exposure, and location visibility
 
 ![Demo](media/animated-gif-secuditor-2.0.5-vpn.gif)
 
