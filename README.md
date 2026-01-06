@@ -59,7 +59,7 @@ Compatible with:
 
 <br>
 
-### Secuditor identifying VPN public IP and geolocation
+### Checking OpSec, public IP exposure, and geolocation visibility
 
 ![Demo](media/animated-gif-secuditor-2.0.5-vpn.gif)
 
