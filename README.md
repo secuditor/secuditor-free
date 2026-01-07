@@ -54,14 +54,13 @@ Compatible with:
 
 ## 🎬 Presentation
 
-### Secuditor running a security audit on a Windows device
+### Secuditor running a security audit on a Windows device and displaying reports
 ![Demo](media/animated-gif-secuditor-2.0.5.gif)
 
 <br>
 
-### Checking device OpSec, public IP exposure, and location visibility
-
-![Demo](media/animated-gif-secuditor-2.0.5-vpn.gif)
+### Checking device OpSec, VPN status, public IP and geolocation exposure
+![Demo](media/animated-gif-secuditor-2.0.6-vpn.gif)
 
 ---
 <br>
