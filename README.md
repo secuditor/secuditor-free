@@ -71,7 +71,7 @@ Compatible with:
 ## 🚀 Getting Started
 
 ### 1️⃣ Download
-- #### [SecuditorFree_2.0.5.zip](https://github.com/secuditor/secuditor-free/releases/download/2.0.5/SecuditorFree_2.0.5.zip)
+- #### [SecuditorFree_2.0.6.zip](https://github.com/secuditor/secuditor-free/releases/download/2.0.6/SecuditorFree_2.0.6.zip)
 
 ### 2️⃣ Extract & Run
 - Unzip the file
