@@ -3,7 +3,16 @@ All notable changes to **Secuditor Free** are documented in this file.
 
 ---
 
-## [2.0.5] – 01.01.2026 – Latest
+## [2.0.6] – 07.01.2026 – Latest
+### Improved
+- VPN connection detection module enhanced for better accuracy
+
+### Fixed
+- Resolved an issue with MSSQL Server feature output reporting
+
+---
+
+## [2.0.5] – 01.01.2026
 ### Added
 - DHCP server feature check
 - DNS server feature check
