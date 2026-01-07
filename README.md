@@ -29,6 +29,13 @@ It helps identify vulnerabilities, improve device's OpSec, and simplify forensic
 ---
 <br>
 
+## 💡 Why closed source?
+
+The tool is distributed in its complete form as freeware to ensure secure design and code integrity, which require a controlled development environment.
+
+---
+<br>
+
 ## 🛡️ Key Features
 
 - Quick, comprehensive endpoint security audit report
