@@ -2,7 +2,7 @@
 
 <div align="center" style="line-height: 0;">
   <a href="https://github.com/secuditor/secuditor-free">
-    <img src="media/Secuditor-logo-transparent2.png" alt="Secuditor Logo" width="400" height="150">
+    <img src="Media_Files/Secuditor-logo-transparent2.png" alt="Secuditor Logo" width="400" height="150">
   </a>
 </div>
 
@@ -55,12 +55,12 @@ Compatible with:
 ## 🎬 Presentation
 
 ### Secuditor running a security audit on a Windows device and displaying reports
-![Demo](media/animated-gif-secuditor-2.0.5.gif)
+![Demo](Media_Files/animated-gif-secuditor-2.0.5.gif)
 
 <br>
 
 ### Checking device OpSec, VPN status, public IP and geolocation exposure
-![Demo](media/animated-gif-secuditor-2.0.6-vpn.gif)
+![Demo](Media_Files/animated-gif-secuditor-2.0.6-vpn.gif)
 
 ---
 <br>
