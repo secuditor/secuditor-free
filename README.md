@@ -60,7 +60,7 @@ Compatible with:
 <br>
 
 ### Checking device OpSec, VPN status, public IP and geolocation exposure
-![Demo](Media_Files/animated-gif-secuditor-2.0.6-vpn.gif)
+![Demo](Media_Files/animated-gif-secuditor-vpn.gif)
 
 ---
 <br>
