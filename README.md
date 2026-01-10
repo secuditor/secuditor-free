@@ -55,7 +55,7 @@ Compatible with:
 ## 🎬 Presentation
 
 ### Secuditor running a security audit on a Windows device and displaying reports
-![Demo](Media_Files/animated-gif-secuditor-2.0.5.gif)
+![Demo](Media_Files/animated-gif-secuditor-prod.gif)
 
 <br>
 
