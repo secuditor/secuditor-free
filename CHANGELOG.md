@@ -3,7 +3,14 @@ All notable changes to **Secuditor Free** are documented in this file.
 
 ---
 
-## [2.0.6] – 07.01.2026 – Latest
+## [2.0.7] – 10.01.2026 – Latest
+### Improved
+- Updated the main report and console window visuals
+- Enhanced the sensitive path scan module
+
+---
+
+## [2.0.6] – 07.01.2026
 ### Improved
 - VPN connection detection module enhanced for better accuracy
 
