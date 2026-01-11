@@ -134,11 +134,10 @@ The tool is distributed in its complete form as **freeware** to ensure secure de
 <br>
 
 ## 🧩 Shared Scripts
-A partial collection of open source Python scripts used by the Secuditor project, is available in [Secuditor Scripts](https://github.com/secuditor/secuditor-scripts).
+A partial collection of open-source Python scripts used by the Secuditor project is available in the [Secuditor Scripts](https://github.com/secuditor/secuditor-scripts) repository.
 
 ---
 <br>
-
 
 ## 🔗 Links and Licenses
 
